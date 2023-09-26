@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 16 20:38:00 2023
-
-@author: vkit, DRV, CSE
-"""
-
 def AstarAlg(startnode,stopnode):
     openset=set(startnode)
     closedset=set()
